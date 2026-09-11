@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\\u0110\u1ED3 \u00E1n \u0110\u1ED3 ho\u1EA1 nh\u00E0 thi \u0111\u1EA5u\\Do-Hoa-Nha-Thi-Dau-3d\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CDCF5208-7D30-7446-BE8A-D9CEF9717789}|Assembly-CSharp.csproj|c:\\users\\admin\\documents\\\u0111\u1ED3 \u00E1n \u0111\u1ED3 ho\u1EA1 nh\u00E0 thi \u0111\u1EA5u\\do-hoa-nha-thi-dau-3d\\assets\\scripts\\ui\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDCF5208-7D30-7446-BE8A-D9CEF9717789}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDCF5208-7D30-7446-BE8A-D9CEF9717789}|Assembly-CSharp.csproj|C:\\Users\\Admin\\Documents\\\u0110\u1ED3 \u00E1n \u0110\u1ED3 ho\u1EA1 nh\u00E0 thi \u0111\u1EA5u\\Do-Hoa-Nha-Thi-Dau-3d\\assets\\scripts\\ui\\uicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDCF5208-7D30-7446-BE8A-D9CEF9717789}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\uicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDCF5208-7D30-7446-BE8A-D9CEF9717789}|Assembly-CSharp.csproj|C:\\Users\\Admin\\Documents\\\u0110\u1ED3 \u00E1n \u0110\u1ED3 ho\u1EA1 nh\u00E0 thi \u0111\u1EA5u\\Do-Hoa-Nha-Thi-Dau-3d\\assets\\scripts\\ui\\door.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDCF5208-7D30-7446-BE8A-D9CEF9717789}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\door.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDCF5208-7D30-7446-BE8A-D9CEF9717789}|Assembly-CSharp.csproj|c:\\users\\admin\\documents\\\u0111\u1ED3 \u00E1n \u0111\u1ED3 ho\u1EA1 nh\u00E0 thi \u0111\u1EA5u\\do-hoa-nha-thi-dau-3d\\assets\\scripts\\players\\playertrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDCF5208-7D30-7446-BE8A-D9CEF9717789}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\players\\playertrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDCF5208-7D30-7446-BE8A-D9CEF9717789}|Assembly-CSharp.csproj|C:\\Users\\Admin\\Documents\\\u0110\u1ED3 \u00E1n \u0110\u1ED3 ho\u1EA1 nh\u00E0 thi \u0111\u1EA5u\\Do-Hoa-Nha-Thi-Dau-3d\\assets\\scripts\\players\\mouselook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDCF5208-7D30-7446-BE8A-D9CEF9717789}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\players\\mouselook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDCF5208-7D30-7446-BE8A-D9CEF9717789}|Assembly-CSharp.csproj|C:\\Users\\Admin\\Documents\\\u0110\u1ED3 \u00E1n \u0110\u1ED3 ho\u1EA1 nh\u00E0 thi \u0111\u1EA5u\\Do-Hoa-Nha-Thi-Dau-3d\\assets\\scripts\\ani\\anicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDCF5208-7D30-7446-BE8A-D9CEF9717789}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ani\\anicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AA4D55D-B040-FDB8-C97F-1B1BC4DEEAC9}|Unity.RenderPipelines.Universal.Shaders.csproj|C:\\Users\\Admin\\Documents\\\u0110\u1ED3 \u00E1n \u0110\u1ED3 ho\u1EA1 nh\u00E0 thi \u0111\u1EA5u\\Do-Hoa-Nha-Thi-Dau-3d\\library\\packagecache\\com.unity.render-pipelines.universal@f4b2d804631f\\shaders\\lit.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{8AA4D55D-B040-FDB8-C97F-1B1BC4DEEAC9}|Unity.RenderPipelines.Universal.Shaders.csproj|solutionrelative:library\\packagecache\\com.unity.render-pipelines.universal@f4b2d804631f\\shaders\\lit.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 135,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Table.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\\u0110\u1ED3 \u00E1n \u0110\u1ED3 ho\u1EA1 nh\u00E0 thi \u0111\u1EA5u\\Do-Hoa-Nha-Thi-Dau-3d\\Assets\\scripts\\UI\\Table.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\UI\\Table.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\\u0110\u1ED3 \u00E1n \u0110\u1ED3 ho\u1EA1 nh\u00E0 thi \u0111\u1EA5u\\Do-Hoa-Nha-Thi-Dau-3d\\Assets\\scripts\\UI\\Table.cs",
+              "RelativeToolTip": "Assets\\scripts\\UI\\Table.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T02:09:25.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Mouselook.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\\u0110\u1ED3 \u00E1n \u0110\u1ED3 ho\u1EA1 nh\u00E0 thi \u0111\u1EA5u\\Do-Hoa-Nha-Thi-Dau-3d\\Assets\\scripts\\players\\Mouselook.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\players\\Mouselook.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\\u0110\u1ED3 \u00E1n \u0110\u1ED3 ho\u1EA1 nh\u00E0 thi \u0111\u1EA5u\\Do-Hoa-Nha-Thi-Dau-3d\\Assets\\scripts\\players\\Mouselook.cs",
+              "RelativeToolTip": "Assets\\scripts\\players\\Mouselook.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwBcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T09:19:59.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Door.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\\u0110\u1ED3 \u00E1n \u0110\u1ED3 ho\u1EA1 nh\u00E0 thi \u0111\u1EA5u\\Do-Hoa-Nha-Thi-Dau-3d\\Assets\\scripts\\UI\\Door.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\UI\\Door.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\\u0110\u1ED3 \u00E1n \u0110\u1ED3 ho\u1EA1 nh\u00E0 thi \u0111\u1EA5u\\Do-Hoa-Nha-Thi-Dau-3d\\Assets\\scripts\\UI\\Door.cs",
+              "RelativeToolTip": "Assets\\scripts\\UI\\Door.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwAoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T09:02:26.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerTrigger.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\\u0110\u1ED3 \u00E1n \u0110\u1ED3 ho\u1EA1 nh\u00E0 thi \u0111\u1EA5u\\Do-Hoa-Nha-Thi-Dau-3d\\Assets\\scripts\\players\\PlayerTrigger.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\players\\PlayerTrigger.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\\u0110\u1ED3 \u00E1n \u0110\u1ED3 ho\u1EA1 nh\u00E0 thi \u0111\u1EA5u\\Do-Hoa-Nha-Thi-Dau-3d\\Assets\\scripts\\players\\PlayerTrigger.cs",
+              "RelativeToolTip": "Assets\\scripts\\players\\PlayerTrigger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T08:55:48.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UIcontroller.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\\u0110\u1ED3 \u00E1n \u0110\u1ED3 ho\u1EA1 nh\u00E0 thi \u0111\u1EA5u\\Do-Hoa-Nha-Thi-Dau-3d\\Assets\\scripts\\UI\\UIcontroller.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\UI\\UIcontroller.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\\u0110\u1ED3 \u00E1n \u0110\u1ED3 ho\u1EA1 nh\u00E0 thi \u0111\u1EA5u\\Do-Hoa-Nha-Thi-Dau-3d\\Assets\\scripts\\UI\\UIcontroller.cs",
+              "RelativeToolTip": "Assets\\scripts\\UI\\UIcontroller.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T08:52:39.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AniController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\\u0110\u1ED3 \u00E1n \u0110\u1ED3 ho\u1EA1 nh\u00E0 thi \u0111\u1EA5u\\Do-Hoa-Nha-Thi-Dau-3d\\Assets\\scripts\\Ani\\AniController.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\Ani\\AniController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\\u0110\u1ED3 \u00E1n \u0110\u1ED3 ho\u1EA1 nh\u00E0 thi \u0111\u1EA5u\\Do-Hoa-Nha-Thi-Dau-3d\\Assets\\scripts\\Ani\\AniController.cs",
+              "RelativeToolTip": "Assets\\scripts\\Ani\\AniController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T08:18:12.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Lit.shader",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\\u0110\u1ED3 \u00E1n \u0110\u1ED3 ho\u1EA1 nh\u00E0 thi \u0111\u1EA5u\\Do-Hoa-Nha-Thi-Dau-3d\\Library\\PackageCache\\com.unity.render-pipelines.universal@f4b2d804631f\\Shaders\\Lit.shader",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.render-pipelines.universal@f4b2d804631f\\Shaders\\Lit.shader",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\\u0110\u1ED3 \u00E1n \u0110\u1ED3 ho\u1EA1 nh\u00E0 thi \u0111\u1EA5u\\Do-Hoa-Nha-Thi-Dau-3d\\Library\\PackageCache\\com.unity.render-pipelines.universal@f4b2d804631f\\Shaders\\Lit.shader",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.render-pipelines.universal@f4b2d804631f\\Shaders\\Lit.shader",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2026-09-07T08:11:36.278Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

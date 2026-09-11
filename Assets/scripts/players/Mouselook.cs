@@ -14,13 +14,14 @@ public class Mouselook : MonoBehaviour
     private void Start()
     {
         Instance = this;
-        Cursor.lockState = CursorLockMode.Locked;
-        Cursor.visible = false;
     }
 
     private void Update()
     {
-        rotationPlayer();
+        if (Mouse.current.leftButton.isPressed)
+        {
+            rotationPlayer();
+        }
     }
     public void rotationPlayer()
     {

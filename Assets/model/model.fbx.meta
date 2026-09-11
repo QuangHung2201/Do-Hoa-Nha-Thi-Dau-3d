@@ -7,6 +7,11 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: Ebony_mat
+    second: {fileID: 2100000, guid: 773868f0826eea1498db1534a2db51d7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: Material
     second: {fileID: 2100000, guid: 68234abae514c3a4081fbe4f8403bd22, type: 2}
   - first:
@@ -14,6 +19,11 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: Material.001
     second: {fileID: 2100000, guid: 43523def84bd54047805f085c21e2248, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.002
+    second: {fileID: 2100000, guid: d73d09308cb145d47841b9ac8d1268d3, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -57,13 +67,68 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: Material.011
+    second: {fileID: 2100000, guid: 6f828082fda4b7648a3bc48ff98d436a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.012
+    second: {fileID: 2100000, guid: 052f6100766825640908709331c99a05, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.013
+    second: {fileID: 2100000, guid: 6f8a6ea0f6dbd614d9da5c2b0608945c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.014
+    second: {fileID: 2100000, guid: 9485e9029b42c124e9a1a3ab5551a0f7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.015
+    second: {fileID: 2100000, guid: 1f06d0762fef02944a973b0b591e5a51, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: Material.016
     second: {fileID: 2100000, guid: 87380b54caaa0394fb6b1f1368c9f511, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: Material.017
+    second: {fileID: 2100000, guid: ca67e648b8020ae42a06016f0e1777ed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.018
+    second: {fileID: 2100000, guid: 8ead7fe68f0875a4ea482208df566a21, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Silver_mat
+    second: {fileID: 2100000, guid: 1d5c8fa58d1b7a04fb4216c1e11fa61b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Window_Mat
+    second: {fileID: 2100000, guid: 85504c2d5503e2e4d90b10864018663f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: wooden_floor_01
     second: {fileID: 2100000, guid: 49ce19c88be61504490559c884475491, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wooden_floor_01.001
+    second: {fileID: 2100000, guid: f330615d80aab9f43827ee3e2e242540, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wooden_floor_01.002
+    second: {fileID: 2100000, guid: f01ea879be22f6b40a005b87ed7d8810, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
