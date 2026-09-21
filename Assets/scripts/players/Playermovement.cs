@@ -1,3 +1,5 @@
+using PinePie.SimpleJoystick;
+using System;
 using UnityEngine;
 using UnityEngine.InputSystem;
 
@@ -7,12 +9,18 @@ public class Playermovement : MonoBehaviour
 
     private CharacterController m_charac;
 
+
     void Start()
     {
         m_charac = GetComponent<CharacterController>();
     }
 
     void Update()
+    {
+        movePC();
+    }
+
+    public void movePC()
     {
         Vector2 input = Vector2.zero;
         if (Keyboard.current.wKey.isPressed) input.y = 1;
@@ -25,7 +33,5 @@ public class Playermovement : MonoBehaviour
             + transform.right * input.x;
 
         m_charac.Move(move * speed * Time.deltaTime);
-
-        //Mouselook.Instance.rotationPlayer();
-    }
+    }      
 }

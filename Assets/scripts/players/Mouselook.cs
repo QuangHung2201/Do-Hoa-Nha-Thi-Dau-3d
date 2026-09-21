@@ -5,7 +5,7 @@ using UnityEngine.InputSystem;
 public class Mouselook : MonoBehaviour
 {
     public static Mouselook Instance;
-    [SerializeField] private float mousesensitivity;
+    [SerializeField] private float mousesensitivity; // điều chỉnh độ nhạy
 
     [SerializeField] private Transform tranformcamera;
 
