@@ -30,6 +30,9 @@ public class PlayerTrigger : MonoBehaviour
             case "plasticchair":
                 setdata("Tên : Ghế nhựa\r\nChiều rộng (ngang mặt ghế): 42 cm\r\nChiều sâu (từ mép trước ra mép sau): 45 cm\r\nChiều cao (từ đáy phần ngồi lên đỉnh tựa lưng): 18 cm \r\n", "Ghế nhựa");
                 break;
+            case "congtac":
+                UIcontroller.instance.PanelFan.SetActive(true);
+                break;
         }
     }
 
@@ -67,6 +70,9 @@ public class PlayerTrigger : MonoBehaviour
 
             case "plasticchair":
                 UIcontroller.instance.PanelInfor.SetActive(false);
+                break;
+            case "congtac":
+                UIcontroller.instance.PanelFan.SetActive(false);
                 break;
         }
     }

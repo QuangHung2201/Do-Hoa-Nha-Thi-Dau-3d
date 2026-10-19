@@ -11,6 +11,7 @@ TagManager:
   - cushion
   - basketballhoop
   - plasticchair
+  - congtac
   layers:
   - Default
   - TransparentFX

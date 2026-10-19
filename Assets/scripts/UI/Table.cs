@@ -34,7 +34,7 @@ public class Table : MonoBehaviour
     {
         CvG.alpha = 0f;
 
-        CvG.DOFade(0.6f,0.3f)
+        CvG.DOFade(0.8f,0.3f)
             .SetEase(Ease.OutQuad);
     }    
     public void openInfor()
